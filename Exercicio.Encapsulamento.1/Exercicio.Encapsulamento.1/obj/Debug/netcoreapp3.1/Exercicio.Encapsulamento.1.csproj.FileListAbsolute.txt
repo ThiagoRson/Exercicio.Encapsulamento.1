@@ -1,0 +1,13 @@
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\bin\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.exe
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\bin\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.deps.json
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\bin\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.runtimeconfig.json
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\bin\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.runtimeconfig.dev.json
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\bin\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.dll
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\bin\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.pdb
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\obj\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.csprojAssemblyReference.cache
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\obj\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.csproj.CoreCompileInputs.cache
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\obj\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.AssemblyInfoInputs.cache
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\obj\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.AssemblyInfo.cs
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\obj\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.dll
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\obj\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.pdb
+C:\Users\Thiago e Maycon\source\repos\Exercicio.Encapsulamento.1\Exercicio.Encapsulamento.1\obj\Debug\netcoreapp3.1\Exercicio.Encapsulamento.1.genruntimeconfig.cache
