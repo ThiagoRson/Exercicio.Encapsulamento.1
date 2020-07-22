@@ -39,6 +39,7 @@ namespace Exercicio.Encapsulamento._1
         }
         public void Saque(double saca)
         {
+            //$ 5.00 taxa
             DepositoInicial -= saca + 5;;
         }
 
